@@ -10,8 +10,8 @@ Dependencies :
 * pyscreenshot (for linux users)
 
 to install them, run following command :
-* pip install <name>
+* pip install name
 
-replace <name> with one of the above dependencies and run the command for all missing dependencies.
+replace 'name' with one of the above dependencies and run the command for all missing dependencies.
 
 Enjoy !
