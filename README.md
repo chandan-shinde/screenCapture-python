@@ -9,7 +9,7 @@ Dependencies :
 * Pillow (for Windows and Mac users)
 * pyscreenshot (for linux users)
 
-to install them, run following command :
+to install them, run following command in cloned directory:
 * pip install -r req.txt
 
 Enjoy !
