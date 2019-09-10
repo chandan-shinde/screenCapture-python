@@ -19,7 +19,7 @@ except ValueError:
 	print("Error : Please provide integer values...")
 	print("Usage : screenCapture.py width height")
 	exit()
-print("Live screen capture begin, press q to quit")
+print("Live screen capture begin, press q or Ctrl+C to quit")
 
 while(True):
     try:
